@@ -2,6 +2,8 @@
 
 I came up with designs for projects I would like to code in the near future. The designs are not yet complete. I will add more here over time.
 
+At the beginning of my journey I used the opensource app "Penpot" for my designs, but nowadays I use Figma.
+
 ## Personal Web
 
 I purchased a [domain](http://anickaloves.yachts) and would like not to leave it empty, I would also like to do some more advanced project including a blog. The text in the design is random and I have still a few more pages to design.
