@@ -4,7 +4,7 @@ I came up with designs for projects I would like to code in the near future. The
 
 ## Personal Web
 
-I purchased a [domain](anickaloves.yachts) and would like not to leave it empty, I would also like to do some more advanced project including a blog. The text in the design is random and I have still a few more pages to design.
+I purchased a [domain](http://anickaloves.yachts) and would like not to leave it empty, I would also like to do some more advanced project including a blog. The text in the design is random and I have still a few more pages to design.
 
 Link to source code - [Soon]()
 
